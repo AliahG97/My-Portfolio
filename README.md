@@ -19,7 +19,7 @@ The website's HTML  is structured with the following elements
 - Contact links
 
 ## Screenshots
-![My portfolio Screenshot](./assets/images/My-portfolioGIf.gif) https://aliahg97.github.io/My-Portfolio
+![My portfolio Screenshot](./Assets/Images/My-portfolioGIf.gif) https://aliahg97.github.io/My-Portfolio
 
 ## Work
 Aliah Guerra's develeopment background include:

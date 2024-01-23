@@ -28,13 +28,21 @@ body {
    
 }
 
+.sectionAbout{
+    display: flex;
+
+    color: red;
+    margin-top: 10px;
+    justify-content: space-between;
+    width: 100%;
+}
 .aside-headers {
-    margin-left:280px;
-    padding: 20px;
-    clear: both;
-    float: left;
+    /* margin-left:280px; */
+    /* padding: 20px; */
+    /* clear: both;
+    float: left; */
     text-align: right;
-    padding-left: 27px;
+    /* padding-left: 27px; */
    
 }
 
@@ -48,8 +56,7 @@ body {
     width: 20%;
     height: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
-    
+ 
 }
 .nav-links {
     list-style-type: none;
@@ -86,7 +93,7 @@ a {
 }
 p {
     text-align: left;
-    margin-left: 500px;
+    margin-left: 40px;
     position: relative; 
     border-left: 20px solid orchid; 
     /* padding is space betwen pink line and summary   */
