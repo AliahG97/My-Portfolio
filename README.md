@@ -1,4 +1,4 @@
-# Myportfolio Website
+# My portfolio Website
 This website uses HTML and CSS and CSS Advanced code to create a responsive display of my work and experience as a developer. You can see my background access my resume or contact me.
 
 ## Table of contents
